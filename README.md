@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**baer9/baer9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="center">
-  <img src="" width="30%">
+  <img src="https://github.com/baer9/baer9/blob/main/hello-world.gif" width="30%">
 </p>
 Here are some ideas to get you started:
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 1103795127@qq.com.
 - 😄 Pronouns: Baer.
 - ⚡ Fun fact: Music,Basketball,Games and Videos.
--->
+
