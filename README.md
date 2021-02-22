@@ -41,6 +41,9 @@
 - 😄 Pronouns: Baer.
 - ⚡ Fun fact: Music,Basketball,Games and Videos.
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/baer9/count.svg" />
+</p>
 
 [![Github Stats By Baer9](https://github-readme-stats.vercel.app/api?username=baer9&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/baer9/)
